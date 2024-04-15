@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: "我的主页标题"
+date: 2024-04-15
 ---
 ## 这是我的主页
